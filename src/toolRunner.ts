@@ -3,8 +3,6 @@ import { redditPosts } from "./tools/reddit"
 import { dadJoke } from "./tools/dadJoke"
 import { generateImage } from "./tools/generateImage"
 
-const getWeather = (userMessage: string) => "hot as balls"
-
 export const runTool = async (
   toolCall: OpenAI.Chat.Completions.ChatCompletionMessageToolCall,
   userMessage: string
