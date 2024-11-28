@@ -1,6 +1,7 @@
 # AI Agent with Tool Integration
 
 A TypeScript-based AI agent that can interact with various tools including Reddit posts fetching, dad jokes generation, and DALL-E image generation.
+This was built learning from the tutorial from Scott Moss on Frontend Masters so credit to him and go check them out here: https://frontendmasters.com/
 
 ## Features
 
